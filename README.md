@@ -1,6 +1,6 @@
 # Learning Management System (LMS)
 
-A Learning Management System similar to Canvas, built across 4 phases for CS 5530 — Database Systems at the University of Utah. The frontend UI was provided; the project focused on database design, SQL schema creation, backend controller implementation, and cloud deployment.
+A Learning Management System similar to Canvas, built across 4 phases for CS 5530 (Database Systems) at the University of Utah. The frontend UI was provided; the project focused on database design, SQL schema creation, backend controller implementation, and cloud deployment.
 
 ## Tech Stack
 
@@ -19,7 +19,7 @@ A Learning Management System similar to Canvas, built across 4 phases for CS 553
 - Administrators can create departments and courses
 - Professors can create classes, assignment categories, assignments, and grade submissions
 - Students can view enrollments, submit assignments, and track grades
-- **Automatic grade calculation** — letter grades computed from weighted assignment categories whenever a submission is graded or a new assignment is created
+- **Automatic grade calculation:** letter grades computed from weighted assignment categories whenever a submission is graded or a new assignment is created
 - User authentication and login via ASP.NET Identity
 - Full deployment to a live Linux web server accessible via browser
 
@@ -55,4 +55,4 @@ View (Razor Pages) → Controllers (LINQ/EF Core) → MySQL (TeamXLMS)
 
 ## Authors
 
-Developed with a partner for CS 5530 — Database Systems, University of Utah (Spring 2026).
+Developed with a partner for CS 5530 (Database Systems), University of Utah (Spring 2026).
